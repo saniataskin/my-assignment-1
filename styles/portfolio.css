@@ -135,21 +135,31 @@
         gap: 100px;
         padding: 130px 230px;
         gap: 15%;
+        background-color: #FFFFFF;
     }
 
 .footertitle{
     font-size: 80px;
     color: rgba(0, 0, 0, 1)
 }
-footer input[type="text"], footer input[type="email"]{
-    height: 64px;
-    border-radius: 5px;
-    width: 100%;
-    padding: 10px 80px;
+footer input[type="text"], footer input[type="email"]
+{
+    height: 60px;
+    border-radius: 10px;
+    width: 80%;
+    padding: 5px 40px;
     margin-bottom: 24px;
     display: block;
+   }
+   .textarea{
     
-    
-    
-
-}
+    border-radius: 10px;
+   }
+   .last-button{
+    background-color: #4E47FF;
+        color: white;
+        border: none;
+        border-radius: 15px;
+        padding: 20px 200px;
+        margin-top: 5px;
+   }
