@@ -130,3 +130,26 @@
        margin: 100px 450px;
        padding: 50px 120px;
     }
+    .footer-section{
+        display: flex;
+        gap: 100px;
+        padding: 130px 230px;
+        gap: 15%;
+    }
+
+.footertitle{
+    font-size: 80px;
+    color: rgba(0, 0, 0, 1)
+}
+footer input[type="text"], footer input[type="email"]{
+    height: 64px;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px 80px;
+    margin-bottom: 24px;
+    display: block;
+    
+    
+    
+
+}
